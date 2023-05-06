@@ -74,4 +74,3 @@ Sample output:
 ```text
 Deleted 1.7MB from 2 directories
 ```
-```
