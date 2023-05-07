@@ -4,25 +4,6 @@ Managing Node.js projects often involves the installation of numerous packages a
 
 CM Node Module - Find/Remove is a simple and efficient Bash script designed to help you find and list or remove `node_modules` directories. It also displays a summary of the total size of the directories or the space reclaimed after removal, allowing you to keep your workspace clean and organized.
 
-## License
-
-This project is licensed under the terms of the [GPL v2 License](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html).
-
-## Author
-
-Patrik Forsberg <patrik.forsberg@coldmind.com>
-
-## Repository
-
-https://github.com/coldmind-devhub/cm-npm-clean.git
-
-## Support the Project
-
-Please consider supporting the project by visiting the website or donating:
-
-- Website: https://www.coldmind.com
-- Donate: https://www.paypal.com/donate/?hosted_button_id=N3T9FJWUQT44N
-
 ## Instructions
 
 1. Save the script to a file, e.g., `process_node_modules.sh`.
