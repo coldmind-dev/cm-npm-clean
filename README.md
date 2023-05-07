@@ -6,14 +6,13 @@ CM Node Module - Find/Remove is a simple and efficient Bash script designed to h
 
 ## Instructions
 
-1. Save the script to a file, e.g., `process_node_modules.sh`.
-2. Make the script executable:
+1. Make the script executable:
 
    ```bash
    chmod +x process_node_modules.sh
    ```
 
-3. Run the script with the desired options:
+2. Run the script with the desired options:
 
    ```bash
    ./process_node_modules.sh -f
